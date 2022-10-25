@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000
+  secret: dev-123!@#123!@#123!@#123!@#woodongwoodongwoodongwoodong123!@#123!@#123!@#123!@#
+
+gateway:
+  ip: 10.11.130.173
